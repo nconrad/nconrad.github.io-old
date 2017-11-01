@@ -1,0 +1,89 @@
+
+
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans:400);
+@import url(http://fonts.googleapis.com/css?family=Artifika|Enriqueta|Cutive);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif);
+
+body {
+    text-align: center;
+    font-family: 'Droid Sans';
+    color: #444;
+    font-weight: 200;
+}
+
+.logo {
+    margin-top: 200px;
+    font-size: 2.5em;
+    font-family: 'Droid Serif', serif;    
+    
+}
+
+.logo-subtext {
+	font-size: .32em;
+}
+
+.nav {
+
+    width: 5%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.nav a {
+    display: block;
+    text-decoration: none;
+    color: #666;   
+}
+
+.nav i { 
+    font-size: 2.5em;
+    color: #666;
+}
+
+/* icon slide effect */
+.nav a i {
+
+}
+.nav a i:hover {
+    opacity: .8; 
+    margin-top: 5px;
+}
+
+
+/* text slide-in effect */
+.nav a > .text {
+    position: relative;
+    top: 0;
+    left: 50px;
+    opacity: 0;
+    transition: all .5s;
+    -webkit-transition: all .5s;
+}
+
+.nav a:hover > .text {
+    left: 0px;
+    opacity: 1.0;    
+}
+
+
+
+/* hover colors */
+
+.nav:hover .about-btn i {
+    color: #a94747; /*#808080;*/
+}
+
+
+.nav:hover .work-btn i{
+    color: #1c9ea7;
+}
+
+
+.nav:hover .music-btn i{
+    color: #689432;
+}
+
+.nav:hover .contact-btn i{
+    color: #a26310;
+}
+
