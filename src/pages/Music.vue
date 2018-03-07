@@ -1,23 +1,26 @@
 <template>
   <main-layout>
     <div class="content">
-    <p>Music page</p>
+    <p>Music</p>
 
     <h2>Upcoming</h2>
-      With Axons (drums) . MoySpace, Chicago, IL w/ Impulsive Hearts and Eric Wallgren<br>
+      Check back!
       <br>
 
     <h2>Past</h2>
 
 
-    With Axons (drums)
+    Axons (drums)
     <p>
+      Dec 6, 2017 . ALULU Brewpub, Chicago, IL w/ Stardusk Encounter, and Sex No Babies<br>
+      Nov 22, 2017 . Quenchers, Chicago, IL w/ Blue Cloud, Belmont & Clark, Fauvely<br>
+      Nov 18, 2017) . MoySpace, Chicago, IL w/ Impulsive Hearts, Girl K, and  Eric Wallgren<br>
       Oct 7, 2017 . Slate Arts, Chicago, IL w/ Fury, Spaces of Disappearance, and Boob Sweat<br>
       Aug 21, 2017 . Emporium, Chicago, IL w/ Emily Davis and Impulsive Hearts
     </p>
     <br>
 
-    With The Local Void (bass)
+    The Local Void (bass)
     <p>
       December 4, 2016 . Quenchers, Chicago, IL w/ Turn N' Fire, The Florida Rooms, and Owen Hemming<br>
       June 18, 2016 . Quenchers, Chicago, IL w/ Small Tines, Axons, and The By Gods<br>
@@ -26,13 +29,13 @@
     <br>
 
 
-    With Pale Blue Dot (bass)<br>
+    Pale Blue Dot (bass)<br>
     <p>
       February 25, 2015 . The Abbey, Chicago, IL
     </p>
     <br>
 
-    With Exit Ghost (bass)
+    Exit Ghost (bass)
     <p>
       November 22nd, 2013 . Mendell St, Chicago, IL<br>
       September 18th, 2013 . Subterranean, Chicago, IL w/ New Madrid<br>
@@ -47,7 +50,7 @@
     </p>
     <br>
 
-    With Cold Blue Kid (bass)
+    Cold Blue Kid (bass)
     <p>
       March 15th, 2013 . Beat Kitchen, Chicago, IL<br>
       December 15th, 2012 Beat Kichen<br>
